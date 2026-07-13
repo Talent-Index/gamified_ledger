@@ -55,7 +55,7 @@ PRIVATE_KEY=0xYOUR_PRIVATE_KEY_HERE
 
 Use the private key setup instructions in this deck before adding your wallet key:
 
-https://docs.google.com/presentation/d/1Me52eDyLuugxrlMwyPq4Ek-nDnu_e7_4eZHapkNEZqA/mobilepresent?slide=id.p22
+[Guide Here](https://xpesacreators.xyz/creator/sylus77)
 
 Load the variables into your shell before running Forge commands:
 
